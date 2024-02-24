@@ -1,0 +1,8 @@
+- What is the difference between ***var*** and ***let***?
+	var can be reassigned and redeclared, while let can only be reassigned.
+- What is the difference between **var** and ***const***?
+	var can be reassigned and redeclared, while const cannot do either.
+- What is the difference between **let** and **const**?
+	let can be reassigned, while const cannot be.
+- What is hoisting?
+	Hoisting is declaring a variable at the beginning of a script and not using it until later on in the script.  It will return undefined until the variable is defined.
